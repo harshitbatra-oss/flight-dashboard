@@ -1,0 +1,7 @@
+data/
+refresh.log
+backfill.py
+template.html
+run_refresh.sh
+refresh_dashboard.py
+*.log
